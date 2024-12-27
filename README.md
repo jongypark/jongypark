@@ -1,2 +1,3 @@
-## Hi there 👋 My Name Is JongYoon
+##  About Me😀 <br>
+# My Name Is JongYoon
 
