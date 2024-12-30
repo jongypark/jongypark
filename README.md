@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jongypark&layout=compact)
+
 <div>
   
-  
+  ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jongypark&layout=compact)  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongypark&show_icons=true&theme=radical)
 
 </div>
