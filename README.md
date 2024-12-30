@@ -2,7 +2,7 @@
 
 <p weight="200">
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=JongYoon's%20GitHub&fontSize=70&fontAlign=60&fontColor=58A6FF)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=JongYoon's%20GitHub&fontSize=70&fontAlign=50&fontColor=58A6FF)
 </p>
 
 <span>
