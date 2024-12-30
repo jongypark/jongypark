@@ -1,10 +1,18 @@
-##  About Me😀 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JongYoon's%20GitHub&fontSize=70)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+<span style="display:flex;">
+
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=JongYoon's%20GitHub&fontSize=70)
+</span>
+  <br>
 <span>
-  <a href="https://www.notion.so/Developer-1479956e2baf4ab1acf5b2432ce8749d?pvs=4">
+
+<details>
+<summary>About Me</summary>
+<a href="https://www.notion.so/Developer-1479956e2baf4ab1acf5b2432ce8749d?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
+</details>
 </span>
 
 # 🖥 Skills
@@ -26,3 +34,5 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonypark&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
     </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
